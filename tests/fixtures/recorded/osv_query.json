@@ -1,0 +1,471 @@
+{
+ "Go|github.com/gin-gonic/gin|1.9.1": [],
+ "Go|github.com/gin-gonic/gin|v1.6.3": [
+  {
+   "id": "GHSA-2c4m-59x9-fr2g",
+   "modified": "2023-11-08T04:12:18.674169Z"
+  },
+  {
+   "id": "GHSA-3vp4-m3rf-835h",
+   "modified": "2023-11-08T04:11:58.943766Z"
+  },
+  {
+   "id": "GHSA-h395-qcrw-5vmq",
+   "modified": "2026-09-10T03:49:05.801847Z"
+  },
+  {
+   "id": "GO-2021-0052",
+   "modified": "2026-07-08T05:56:36.895132Z"
+  },
+  {
+   "id": "GO-2023-1737",
+   "modified": "2024-05-20T16:03:47Z"
+  }
+ ],
+ "Go|golang.org/x/text|0.41.0": [],
+ "Go|golang.org/x/text|v0.3.0": [
+  {
+   "id": "GHSA-5rcv-m4m3-hfh7",
+   "modified": "2026-09-10T03:49:04.603920Z"
+  },
+  {
+   "id": "GHSA-69ch-w2m2-3vjp",
+   "modified": "2026-09-10T03:49:46.240531Z"
+  },
+  {
+   "id": "GHSA-ppp9-7jff-5vj2",
+   "modified": "2026-09-10T03:49:50.331764Z"
+  },
+  {
+   "id": "GO-2020-0015",
+   "modified": "2026-02-04T03:02:32.031255Z"
+  },
+  {
+   "id": "GO-2021-0113",
+   "modified": "2026-02-04T02:31:07.297346Z"
+  },
+  {
+   "id": "GO-2022-1059",
+   "modified": "2026-02-04T03:39:03.311488Z"
+  },
+  {
+   "id": "GO-2026-5970",
+   "modified": "2026-09-23T10:41:39.386264Z"
+  },
+  {
+   "id": "GO-2026-6629",
+   "modified": "2026-10-20T10:42:24.514593Z"
+  }
+ ],
+ "PyPI|certifi|2026.10.23": [],
+ "PyPI|chardet|3.0.4": [],
+ "PyPI|colorama|0.4.6": [],
+ "PyPI|exceptiongroup|1.3.1": [],
+ "PyPI|idna|2.7": [
+  {
+   "id": "GHSA-65pc-fj4g-8rjx",
+   "modified": "2026-09-10T03:50:45.700124Z"
+  },
+  {
+   "id": "GHSA-jjg7-2v4v-x38h",
+   "modified": "2026-09-10T03:50:12.774088Z"
+  },
+  {
+   "id": "PYSEC-2024-60",
+   "modified": "2026-06-10T17:01:21.102419Z"
+  },
+  {
+   "id": "PYSEC-2026-215",
+   "modified": "2026-06-16T16:15:04.639265Z"
+  }
+ ],
+ "PyPI|idna|3.15": [],
+ "PyPI|iniconfig|2.1.0": [],
+ "PyPI|iniconfig|2.3.1": [],
+ "PyPI|jinja2|2.10": [
+  {
+   "id": "GHSA-462w-v97r-4m45",
+   "modified": "2024-09-24T21:03:59.802687Z"
+  },
+  {
+   "id": "GHSA-cpwx-vrp4-4pq7",
+   "modified": "2026-09-10T03:49:48.526758Z"
+  },
+  {
+   "id": "GHSA-g3rq-g295-4j3m",
+   "modified": "2025-02-14T05:26:14.565160Z"
+  },
+  {
+   "id": "GHSA-h5c8-rqwp-cp95",
+   "modified": "2026-09-10T03:50:00.236017Z"
+  },
+  {
+   "id": "GHSA-h75v-3vvj-5mfj",
+   "modified": "2026-09-10T03:50:13.786450Z"
+  },
+  {
+   "id": "GHSA-q2x7-8rv6-6q7h",
+   "modified": "2026-09-10T03:50:21.662855Z"
+  },
+  {
+   "id": "PYSEC-2019-217",
+   "modified": "2023-11-08T04:00:58.644982Z"
+  },
+  {
+   "id": "PYSEC-2021-66",
+   "modified": "2023-11-08T04:03:28.543308Z"
+  },
+  {
+   "id": "PYSEC-2026-1471",
+   "modified": "2026-07-07T17:46:43.358335Z"
+  },
+  {
+   "id": "PYSEC-2026-1473",
+   "modified": "2026-07-07T17:46:13.853151Z"
+  },
+  {
+   "id": "PYSEC-2026-1474",
+   "modified": "2026-07-07T17:46:13.832160Z"
+  },
+  {
+   "id": "PYSEC-2026-1475",
+   "modified": "2026-07-07T17:46:13.842466Z"
+  }
+ ],
+ "PyPI|jinja2|3.1.6": [],
+ "PyPI|packaging|26.3": [],
+ "PyPI|pluggy|1.6.0": [],
+ "PyPI|pluggy|1.7.0": [],
+ "PyPI|pygments|2.21.0": [],
+ "PyPI|pytest|7.4.4": [
+  {
+   "id": "GHSA-6w46-j5rx-g56g",
+   "modified": "2026-09-10T03:50:32.768043Z"
+  },
+  {
+   "id": "PYSEC-2026-1845",
+   "modified": "2026-07-07T17:47:51.848748Z"
+  }
+ ],
+ "PyPI|pytest|8.4.2": [
+  {
+   "id": "GHSA-6w46-j5rx-g56g",
+   "modified": "2026-09-10T03:50:32.768043Z"
+  },
+  {
+   "id": "PYSEC-2026-1845",
+   "modified": "2026-07-07T17:47:51.848748Z"
+  }
+ ],
+ "PyPI|pytest|9.0.3": [],
+ "PyPI|pytest|9.2.0": [],
+ "PyPI|pyyaml|5.3": [
+  {
+   "id": "GHSA-6757-jp84-gxfx",
+   "modified": "2026-05-04T08:57:14.897560Z"
+  },
+  {
+   "id": "GHSA-8q59-q68h-6hv4",
+   "modified": "2026-02-04T03:33:10.792778Z"
+  },
+  {
+   "id": "PYSEC-2020-96",
+   "modified": "2026-05-04T08:57:14.897560Z"
+  },
+  {
+   "id": "PYSEC-2021-142",
+   "modified": "2023-11-08T04:02:26.414885Z"
+  }
+ ],
+ "PyPI|pyyaml|5.4": [],
+ "PyPI|requests|2.19.1": [
+  {
+   "id": "GHSA-9hjg-9r4m-mvj7",
+   "modified": "2026-10-19T20:00:04.716114Z"
+  },
+  {
+   "id": "GHSA-9wx4-h78v-vm56",
+   "modified": "2026-09-10T03:50:13.740879Z"
+  },
+  {
+   "id": "GHSA-gc5v-m9x4-r6x2",
+   "modified": "2026-09-10T03:50:39.207922Z"
+  },
+  {
+   "id": "GHSA-j8r2-6x86-q33q",
+   "modified": "2026-09-10T03:50:01.756149Z"
+  },
+  {
+   "id": "GHSA-x84v-xcm2-53pg",
+   "modified": "2024-10-21T21:42:55.896669Z"
+  },
+  {
+   "id": "PYSEC-2018-28",
+   "modified": "2023-11-08T04:00:04.815794Z"
+  },
+  {
+   "id": "PYSEC-2023-74",
+   "modified": "2023-11-08T04:12:35.436175Z"
+  },
+  {
+   "id": "PYSEC-2026-1872",
+   "modified": "2026-07-07T17:47:00.332079Z"
+  },
+  {
+   "id": "PYSEC-2026-1873",
+   "modified": "2026-07-07T17:46:36.762141Z"
+  },
+  {
+   "id": "PYSEC-2026-2275",
+   "modified": "2026-07-13T07:15:43.964902Z"
+  }
+ ],
+ "PyPI|requests|2.33.0": [],
+ "PyPI|requests|2.34.2": [],
+ "PyPI|tomli|2.5.0": [],
+ "PyPI|typing-extensions|4.16.0": [],
+ "PyPI|urllib3|1.23": [
+  {
+   "id": "GHSA-2xpw-w6gg-jr37",
+   "modified": "2026-09-25T17:15:05.968189Z"
+  },
+  {
+   "id": "GHSA-34jh-p97f-mpxf",
+   "modified": "2026-09-10T03:50:14.811193Z"
+  },
+  {
+   "id": "GHSA-38jv-5279-wg99",
+   "modified": "2026-09-10T03:50:32.562010Z"
+  },
+  {
+   "id": "GHSA-g4mx-q9vg-27p4",
+   "modified": "2026-09-10T03:50:03.706889Z"
+  },
+  {
+   "id": "GHSA-gwvm-45gx-3cf8",
+   "modified": "2024-11-18T23:24:00.169548Z"
+  },
+  {
+   "id": "GHSA-mh33-7rrq-662w",
+   "modified": "2024-11-18T22:25:21.266722Z"
+  },
+  {
+   "id": "GHSA-pq67-6m6q-mj2v",
+   "modified": "2026-09-10T03:50:25.299291Z"
+  },
+  {
+   "id": "GHSA-qccp-gfcp-xxvc",
+   "modified": "2026-09-10T03:50:47.272765Z"
+  },
+  {
+   "id": "GHSA-r64q-w8jr-g9qp",
+   "modified": "2024-11-18T23:01:35.378516Z"
+  },
+  {
+   "id": "GHSA-v845-jxx5-vc9f",
+   "modified": "2026-09-10T03:49:24.753610Z"
+  },
+  {
+   "id": "GHSA-vxq7-64xx-v4gw",
+   "modified": "2026-10-01T17:55:57.514829Z"
+  },
+  {
+   "id": "GHSA-wqvq-5m8c-6g24",
+   "modified": "2024-11-18T22:47:07.792720Z"
+  },
+  {
+   "id": "PYSEC-2019-132",
+   "modified": "2023-11-08T04:01:00.047784Z"
+  },
+  {
+   "id": "PYSEC-2019-133",
+   "modified": "2023-11-08T04:01:00.967964Z"
+  },
+  {
+   "id": "PYSEC-2020-148",
+   "modified": "2023-11-08T04:03:14.251187Z"
+  },
+  {
+   "id": "PYSEC-2023-192",
+   "modified": "2023-11-08T04:13:33.452167Z"
+  },
+  {
+   "id": "PYSEC-2023-207",
+   "modified": "2026-06-10T17:02:48.915096Z"
+  },
+  {
+   "id": "PYSEC-2023-212",
+   "modified": "2023-11-08T04:13:39.165450Z"
+  },
+  {
+   "id": "PYSEC-2026-141",
+   "modified": "2026-05-20T09:19:20.983812Z"
+  },
+  {
+   "id": "PYSEC-2026-1994",
+   "modified": "2026-07-07T17:48:15.379954Z"
+  },
+  {
+   "id": "PYSEC-2026-1995",
+   "modified": "2026-07-07T17:48:15.400192Z"
+  },
+  {
+   "id": "PYSEC-2026-1996",
+   "modified": "2026-07-07T17:48:15.382053Z"
+  },
+  {
+   "id": "PYSEC-2026-1999",
+   "modified": "2026-07-07T17:47:54.161376Z"
+  },
+  {
+   "id": "PYSEC-2026-4177",
+   "modified": "2026-10-01T17:45:18.336090Z"
+  }
+ ],
+ "PyPI|urllib3|2.8.0": [],
+ "crates.io|chrono|0.4.19": [
+  {
+   "id": "RUSTSEC-2020-0159",
+   "modified": "2026-02-04T02:59:27.428469Z"
+  }
+ ],
+ "crates.io|chrono|0.4.20": [],
+ "crates.io|libc|0.2.150": [],
+ "crates.io|num-integer|0.1.45": [],
+ "crates.io|num-traits|0.2.19": [],
+ "crates.io|smallvec|0.6.14": [],
+ "crates.io|smallvec|0.6.9": [
+  {
+   "id": "GHSA-43w2-9j62-hq99",
+   "modified": "2023-11-08T04:05:16.493284Z"
+  },
+  {
+   "id": "GHSA-55m5-whcv-c49c",
+   "modified": "2023-11-08T04:00:14.788260Z"
+  },
+  {
+   "id": "GHSA-66p5-j55p-32r9",
+   "modified": "2023-11-08T04:00:14.788260Z"
+  },
+  {
+   "id": "GHSA-69gw-hgj3-45m7",
+   "modified": "2023-11-08T04:01:14.344753Z"
+  },
+  {
+   "id": "GHSA-mm7v-vpv8-xfc3",
+   "modified": "2023-11-08T04:01:14.162214Z"
+  },
+  {
+   "id": "RUSTSEC-2018-0018",
+   "modified": "2023-11-08T04:00:14.788260Z"
+  },
+  {
+   "id": "RUSTSEC-2019-0009",
+   "modified": "2026-07-17T16:00:03.204193Z"
+  },
+  {
+   "id": "RUSTSEC-2019-0012",
+   "modified": "2026-07-17T16:00:03.225430Z"
+  },
+  {
+   "id": "RUSTSEC-2021-0003",
+   "modified": "2026-07-17T16:00:03.208176Z"
+  }
+ ],
+ "crates.io|time|0.1.43": [
+  {
+   "id": "GHSA-wcg3-cvx6-7396",
+   "modified": "2026-09-10T03:49:08.359875Z"
+  },
+  {
+   "id": "RUSTSEC-2020-0071",
+   "modified": "2026-02-04T02:31:56.682937Z"
+  }
+ ],
+ "crates.io|time|0.2.23": [],
+ "npm|@babel/code-frame|7.29.7": [],
+ "npm|@babel/core|7.0.0": [
+  {
+   "id": "GHSA-4x5r-pxfx-6jf8",
+   "modified": "2026-09-10T03:50:48.280629Z"
+  }
+ ],
+ "npm|@babel/core|7.29.6": [],
+ "npm|@babel/generator|7.29.13": [],
+ "npm|@babel/helper-globals|7.29.7": [],
+ "npm|@babel/helper-string-parser|7.29.13": [],
+ "npm|@babel/helper-validator-identifier|7.29.7": [],
+ "npm|@babel/helpers|7.29.13": [],
+ "npm|@babel/parser|7.29.13": [],
+ "npm|@babel/template|7.29.7": [],
+ "npm|@babel/traverse|7.29.13": [],
+ "npm|@babel/types|7.29.11": [],
+ "npm|@jridgewell/gen-mapping|0.3.13": [],
+ "npm|@jridgewell/resolve-uri|3.1.2": [],
+ "npm|@jridgewell/sourcemap-codec|1.6.0": [],
+ "npm|@jridgewell/trace-mapping|0.3.31": [],
+ "npm|convert-source-map|1.9.0": [],
+ "npm|debug|3.2.7": [],
+ "npm|debug|4.4.3": [],
+ "npm|es-errors|1.3.0": [],
+ "npm|function-bind|1.1.2": [],
+ "npm|hasown|2.0.4": [],
+ "npm|is-core-module|2.18.0": [],
+ "npm|js-tokens|4.0.0": [],
+ "npm|jsesc|3.1.0": [],
+ "npm|json5|0.5.1": [
+  {
+   "id": "GHSA-9c47-m6qq-7p4h",
+   "modified": "2026-09-10T03:49:56.250129Z"
+  }
+ ],
+ "npm|json5|1.0.2": [],
+ "npm|lodash|4.17.15": [
+  {
+   "id": "GHSA-29mw-wpgm-hmr9",
+   "modified": "2025-09-29T21:12:31.102523Z"
+  },
+  {
+   "id": "GHSA-35jh-r3h4-6jhm",
+   "modified": "2026-10-17T02:55:38.085813Z"
+  },
+  {
+   "id": "GHSA-p6mc-m468-83gw",
+   "modified": "2025-08-12T21:56:17.174859Z"
+  },
+  {
+   "id": "GHSA-r5fr-rjxr-66jc",
+   "modified": "2026-10-17T02:56:15.633068Z"
+  },
+  {
+   "id": "GHSA-xxjr-mmjv-4gpg",
+   "modified": "2026-11-04T03:15:10.832238Z"
+  }
+ ],
+ "npm|lodash|4.18.0": [
+  {
+   "id": "GHSA-f23m-r3pf-42rh",
+   "modified": "2026-11-03T15:45:08.465610Z"
+  }
+ ],
+ "npm|lodash|4.18.1": [],
+ "npm|minimist|0.0.8": [
+  {
+   "id": "GHSA-vh95-rmgr-6w4m",
+   "modified": "2026-03-13T22:11:31.390433Z"
+  },
+  {
+   "id": "GHSA-xvch-5gv4-984h",
+   "modified": "2026-03-13T22:11:59.523514Z"
+  }
+ ],
+ "npm|minimist|0.2.4": [],
+ "npm|mkdirp|0.5.1": [],
+ "npm|ms|2.1.3": [],
+ "npm|path-parse|1.0.7": [],
+ "npm|picocolors|1.1.1": [],
+ "npm|resolve|1.22.14": [],
+ "npm|semver|5.7.3": [],
+ "npm|source-map|0.5.7": [],
+ "npm|supports-preserve-symlinks-flag|1.0.0": []
+}

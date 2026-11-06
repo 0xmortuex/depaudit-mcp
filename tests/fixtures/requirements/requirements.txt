@@ -1,0 +1,9 @@
+# pinned by hand for the tests
+requests==2.19.1 \
+    --hash=sha256:abc
+PyYAML[extra]==5.3 ; python_version >= "3.6"
+Jinja2==2.10   # old, vulnerable
+flask>=1.0
+-r other.txt
+-e git+https://example.com/x.git#egg=x
+numpy==1.*

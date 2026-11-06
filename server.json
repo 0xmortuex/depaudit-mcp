@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.0xmortuex/depaudit-mcp",
+  "description": "Audit lockfile dependencies (incl. transitive) for known vulnerabilities and outdated versions.",
+  "repository": {
+    "url": "https://github.com/0xmortuex/depaudit-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "depaudit-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
